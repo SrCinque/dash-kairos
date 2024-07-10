@@ -1,2 +1,3 @@
-# horadecodar-django-youtube
-Curso de Django para o Youtube do horaDeCodar.
+# Dash-Kairos
+Estrutura do Dashboard do Sistema Kairos
+
